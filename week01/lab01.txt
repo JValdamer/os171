@@ -20,3 +20,4 @@ drwxr-xr-x  2 joshua.valdamer StafCS 4096 Feb 16 20:43 week09
 drwxr-xr-x  2 joshua.valdamer StafCS 4096 Feb 16 20:43 week10
 drwxr-xr-x  2 joshua.valdamer StafCS 4096 Feb 16 20:44 xtra
 /home/fasilkom/mahasiswa/j/joshua.valdamer/os171/week01
+Today is 16 Feb 2017 at 21:29:38
