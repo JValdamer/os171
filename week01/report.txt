@@ -1,0 +1,5 @@
+Hello, so this is my report about the week01 task.
+This week's lab assignment is about some introductions to github, putty, badak, and many more things related to the OS lab tasks ahead.
+And also there's an introduction to a "old but new" thing, which is git
+I've learnt git from PPW class last semester and using GitHub is mostly the same as GitLab in PPW class.
+This week's tasks teach me how to run some commands such as creating a folder, and many more.
