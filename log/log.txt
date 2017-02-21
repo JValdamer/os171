@@ -7,3 +7,4 @@ w01-170214-20-LR-About: Scripting, From: Arsip RMS week-02-scripting-2
 w01-170216-13-LR-About: Method2 dalam scripting, regular expressions, From: Lecturer
 w01-170216-20-PS-About: Mengerjakan lab01
 w01-170217-18-LR-About: Scripting, From: Arsip RMS week-02-scripting-3
+w02-170221-12-LR-About: 050-Protection-in-Operating-Systems From: Arsip RMS
