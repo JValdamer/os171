@@ -16,3 +16,4 @@ w06-170411-13-LR-About: Fork, From: Lecturer
 w06-170412-20-LR-About: Main Memory (week-06-binding-virtual-memory), From: Arsip RMS
 w06-170415-13-PS-About: Mengerjakan Lab Week 06
 w07-170420-05-PS-About: Mengerjakan Lab Week 07
+w08-170420-13-LR-About: Scheduling, From: Lecturer
