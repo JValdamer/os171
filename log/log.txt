@@ -12,3 +12,7 @@ w02-170223-09-ps-About: Mengerjakan lab02
 w03-170228-13-LR-About: BIOS, From: Lecturer
 w03-170303-11-PS-About: Mengerjakan Lab Week 03
 w04-170310-23-PS-About: Mengerjakan Lab Week 04
+w06-170411-13-LR-About: Fork, From: Lecturer
+w06-170412-20-LR-About: Main Memory (week-06-binding-virtual-memory), From: Arsip RMS
+w06-170415-13-PS-About: Mengerjakan Lab Week 06
+w07-170420-05-PS-About: Mengerjakan Lab Week 07
