@@ -18,3 +18,4 @@ w06-170415-13-PS-About: Mengerjakan Lab Week 06
 w07-170420-05-PS-About: Mengerjakan Lab Week 07
 w08-170420-13-LR-About: Scheduling, From: Lecturer
 w08-170423-07-PS-About: Mengerjakan Lab Week 08
+w08-170428-21-PS-About: Lab 08 Done
