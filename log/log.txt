@@ -21,3 +21,5 @@ w08-170423-07-PS-About: Mengerjakan Lab Week 08
 w08-170428-21-PS-About: Lab 08 Done
 w09-170430-11-PS-About: Start working on Lab Week 09 (Searching for content)
 w09-170430-13-PS-About: Lab Week 09 Done (Ulasan 1)
+w10-170518-20-PS-About: Lab Week 10 Half Done (Ulasan 2)
+w10-170523-13-PS-About: Lab Week10 Done (Reviews & Rankings)
